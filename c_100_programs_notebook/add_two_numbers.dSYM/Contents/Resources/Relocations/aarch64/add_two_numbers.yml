@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pratiyushmanhas/Documents/C_prog/c_100_programs_notebook/add_two_numbers'
+relocations:     []
+...
